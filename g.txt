@@ -1,2 +1,6 @@
 CSE dept
 Acharya institute
+<<<<<<< HEAD
+=======
+3rd semester
+>>>>>>> demo
